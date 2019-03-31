@@ -1,4 +1,4 @@
-package org.redcabbage.WebSearcherWeb.model;
+package org.redcabbage.WebSearcherCommon.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
